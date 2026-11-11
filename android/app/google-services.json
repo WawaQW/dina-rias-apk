@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63032965561",
+    "project_id": "dina-griya-rias",
+    "storage_bucket": "dina-griya-rias.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63032965561:android:fb82eb13d7cdb658d49e68",
+        "android_client_info": {
+          "package_name": "com.example.dina_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdhiaiYYSxIaLo1rSJ09BZzgXRbQIujo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
